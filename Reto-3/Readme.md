@@ -28,7 +28,7 @@ docker push yamidrc/bootcamp_nginx:v1.0.0
 ![Foto 1](images/foto-1.png)
 
 ### Creación de la imagen
-![Foto 2](images/foto-1.png))
+![Foto 2](images/foto-2.png))
 
 ### Creación del contenedor
 ![Foto 3](images/foto-3.png))
